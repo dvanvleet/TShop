@@ -1,3 +1,3 @@
 # TShop E-Commerce Web Application
 
-This is a web application that is utilized as an e-commerce site that sells exclusive t-shirts. Partnering with brands from across the world, there are various trends and styles that go into the production of the custom t-shirts sold on this site. 
+Web application project for CSCI-3900 Web Application Development. The initial README file contains the base information that is needed to accomplish the tasks in Sprint 0 including that of a mock-up web page that will be worked on throughout the course of the project life cycle, implementing code to complete the overall design of the application.
